@@ -1,0 +1,189 @@
+#topnav{
+    background-color:rgb(101,161,91) ;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+#nav{
+display: flex;
+justify-content: space-around;
+}
+
+#navbar{
+display: flex;
+justify-content: flex-end;
+
+}
+
+
+#vallona{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+span{
+    color: rgb(101,161,91);
+}
+
+.fa-solid fa-v{
+    zoom: 1%;
+}
+
+#terradium-collection{
+    
+    
+}
+#t.collection{
+    font-family: cursive;
+   color: purple;
+
+}
+#fall-summer{
+    align-self: center;
+    text-align: center;
+    position: relative;
+    color: white;
+
+
+}
+#landing-plants{
+
+}
+#landing-page{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#ai-generated-plant{
+    zoom: 15%;
+}
+#cactus{
+    zoom: 21%;
+    object-fit: cover;
+    
+}
+#chilli-plant{
+    zoom: 30%;
+    
+}
+.landing-page-one{
+    display: flex;
+    flex-direction: column;
+}
+#plants-on-sale{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#fourty-off{
+    zoom: 20%;
+}
+#trending-photo{
+    zoom: 20%;
+}
+#potted-in-home-photo{
+    zoom: 20%;
+}
+.plants-on-sale-one{
+    display: flex;
+    justify-content: space-around;
+    gap: 2%;
+}
+#all-plants-title{
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    font-size: larger;
+}
+.all-plants-photos{
+    zoom: 20%;
+    gap: 2%;
+}
+.all-plants-column{
+    flex: 25%;
+    padding: 0 4px;
+}
+#all-plants-row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+   
+}
+#all-plants-new-plants{
+    display: flex;
+}
+#oval-shape{
+    zoom: 60%;
+    object-fit: cover;
+}
+/* .all-plants-column-captions{
+    display: flex;
+    justify-content: space-evenly;
+} */
+button{
+    color: white;
+    background-color: rgb(110,168,32);
+    border: solid 1px transparent;
+    border-radius: 5px;
+    padding: 10px;
+}
+#featured-product{
+    text-align: center;
+}
+#featured-product-caption{
+    text-align: center;
+}
+#Air-Plants-in-Bathroom{
+    zoom: 65%;
+    object-fit: cover;
+}
+#featured-products{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+#Living-things{
+    background-image: url(/images/flower-3033229_1280.jpg);
+    height: min-content;
+    text-align: center;
+    color: white;
+    margin-bottom: 4%;
+}
+.amaizing-spring-images{
+   zoom: 15%; 
+   object-fit: cover;
+}
+#Amaizing-Spring{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
+    justify-content: space-evenly;
+    margin-left: 20%;
+   
+}
+.Amaizing-Spring-column{
+    flex: 50%;
+    padding: 0 4px;
+
+}
+#captions{
+    display: flex;
+}
+#cactus-tree{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 8%;
+}
+#cactus-image{
+    zoom: 45%;
+}
+#blog-updates{
+    display: flex;
+    justify-content: space-around;
+
+}
+.latest-blog-images{
+    zoom: 21%;
+}
+#latest-blog-title{
+    text-align: center;
+}
