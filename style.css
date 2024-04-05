@@ -187,3 +187,11 @@ button{
 #latest-blog-title{
     text-align: center;
 }
+.female{
+    zoom: 4%;
+}
+#best-testimonials{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
